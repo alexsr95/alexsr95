@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning front-end and back-end development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on beginners projects.
-- 📫 How to reach me on Discord, username: TheRuckMachine#7395
